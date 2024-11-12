@@ -1,1 +1,3 @@
-# DSA-Recursion-Method
+This java program calculates the digits of a positive integer using recursion method.If the number is less than 10, it returns the number itself.Otherwise, it returns the sum of the digits. 
+
+It also converts a decimal number to its binary  using recursion method.If the decimal number is zero, it returns an empty string. Otherwise, it divides the number by 2, then convert the quotient appending the remainder to the result.
